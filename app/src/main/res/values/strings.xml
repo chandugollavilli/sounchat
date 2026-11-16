@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SoundChat</string>
+    <string name="app_tagline">Communication Beyond Connectivity</string>
+    <string name="nav_home">Hub</string>
+    <string name="nav_diagnostics">Phase 1 Lab</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_devices">Discovery</string>
+    <string name="nav_settings">Settings</string>
+    <string name="btn_discover_nearby">Discover Nearby</string>
+    <string name="btn_start_listening">Start Listening</string>
+    <string name="btn_stop_listening">Stop Listening</string>
+    <string name="btn_open_chat">Open Acoustic Chat</string>
+    <string name="btn_send">SEND</string>
+    <string name="btn_send_hi">Quick TX: \"HI\"</string>
+    <string name="hint_type_message">Type UTF-8 acoustic payload…</string>
+    <string name="permission_mic_rationale">Microphone access is required ONLY when listening for incoming ultrasonic sound waves or running the Phase 1 microphone frequency test.</string>
+    <string name="warning_ultrasound_unsupported">Hardware Notice: Near-ultrasound property not reported by AudioManager. Acoustic engine can still attempt 18.5–19.5 kHz at 48 kHz PCM, or switch to Audible Development Mode (2.4–3.2 kHz).</string>
+</resources>

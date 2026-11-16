@@ -1,0 +1,6 @@
+{
+  "name": "SoundChat",
+  "description": "Offline near-ultrasonic acoustic messenger with real-time DSP BFSK modulation, Goertzel/FFT spectrum analysis, acoustic device discovery, and hardware diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
